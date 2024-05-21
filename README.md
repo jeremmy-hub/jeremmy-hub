@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jeremmy-hub
-- 👀 I’m interested in javascript projects
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email me directly on my email jeremymwas4@gmail.com
